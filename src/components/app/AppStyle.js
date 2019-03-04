@@ -6,7 +6,9 @@ const Wrapper=styled.div`
 text-align:center;
 `;
 const ButtonAntd = styled(Button) `
-color:red;
+color:"#fff";
+background-color:black;
+border:1px solid #fff;
 `;
 export {
   Wrapper,
